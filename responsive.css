@@ -113,6 +113,24 @@
         background-size: 100%;
     }
 
+    /* homebg4 */
+    .homebg4{
+        height: auto;
+    }
+
+    .inner-homebg4 h3{
+        font-size: 45px;
+    }
+
+    .phomegb4{
+        height: auto;
+        /* background-color: red; */
+    }
+
+    .content4{
+        height: 40vh;
+        width: 100%;
+    }
 
 
 
