@@ -1,0 +1,119 @@
+@media screen and (max-width:1050px) {
+    .homebg1{
+        width: 100%;
+        /* background: yellow; */
+        height: auto;
+        background-size: cover;
+    }
+
+    .inner-homebg{
+        flex-direction: column;
+    }
+
+    .main1>.content1{
+        width: 90%;
+    }
+
+    /* .main-content{
+        background-color: black;
+    } */
+
+
+    .main1 h3{
+        font-size: 3em;
+    }
+
+    .main-btn{
+        /* background-color: red; */
+        height: 150px;
+        margin-top: 0px;
+    }
+
+    .main-btn button{
+        /* background-color: green; */
+        height: auto;
+        width: auto;
+        padding: 20px;
+    }
+
+    .main-btn button:nth-child(3){
+        width: 80%;
+        display: none;
+    }
+
+    .main1>.content1:nth-child(2){
+        background-size: cover;
+        width: 90%;
+    }
+
+    .content1:nth-child(2){
+        height: 80vh;
+        background-size: 500%;
+        width: 90%;
+        /* background-color: red; */
+    }
+
+    /* homebg2 */
+    .homebg2{
+        height: auto;
+        display: none;
+    }
+
+    .home2-img{
+        height: auto;
+        flex-wrap: wrap;
+        display: none;
+    }
+
+.home2-img img{
+    margin-bottom: 20px;
+}
+
+/* homegb3 */
+    .homebg3{
+        height: auto;
+    }
+
+    .phome-bg{
+        height: auto;
+    }
+
+    .content3{
+        height: 40vh;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .content3:nth-child(2){
+        background: url(./img/3.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    .content3:nth-child(3){
+        background: url(./img/2.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    .content3:nth-child(1){
+        background-size: 100%;
+    }
+    .content3:nth-child(2){
+        background-size: 100%;
+    }
+    .content3:nth-child(3){
+        background-size: 100%;
+    }
+    .content3:nth-child(4){
+        background-size: 100%;
+    }
+
+    .content3:nth-child(1){
+        background-size: 100%;
+    }
+
+
+
+
+}

@@ -1,0 +1,14 @@
+@font-face {
+    font-family: tblack;
+    src: url(./font/TitilliumWeb-Black.ttf);
+}
+
+@font-face {
+    font-family: tlight;
+    src: url(./font/TitilliumWeb-Light.ttf);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200&family=Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,200&family=Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,600;1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&family=Montserrat:ital,wght@0,600;1,200&display=swap');
