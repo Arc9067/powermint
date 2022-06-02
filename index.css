@@ -354,7 +354,7 @@ footer{
 .inner-footer{
     height: 70%;
     width: 90%;
-    background-color: blue;
+    /* background-color: blue; */
     display: flex;
     justify-content: space-between;
     align-items: center;
